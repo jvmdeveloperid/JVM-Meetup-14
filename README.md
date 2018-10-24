@@ -15,8 +15,16 @@ Speaker :
 
 ![Poster JVM Meetup 14](img/jvm14_poster.jpg "Poster JVM Meetup 14")
 
+#### Photo Session
+
+![Photo SessionJVM Meetup 14](img/jvm14_01.jpg "Photo Session JVM Meetup 14")
+
+![Photo Session JVM Meetup 14](img/jvm14_02.jpg "Photo Session JVM Meetup 14")
+
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
 
 Join Us : [@JVMUserGroup](http://t.me/JVMUserGroup)
+
 Like & Follow : JVM Developer
+
 Like & Follow -> https://www.facebook.com/JVMDeveloperID/
