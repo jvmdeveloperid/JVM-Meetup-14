@@ -1,5 +1,5 @@
 # JVM-Meetup-14
-Summarize form JVM Meetup #11 @ BBM Indonesia Office
+Summarize form JVM Meetup #14 @ BBM Indonesia Office
 
 JVM Meetup #14 : Git Workflow
 Tuesday, 23 October 2018
